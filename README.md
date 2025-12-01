@@ -1,7 +1,7 @@
-<p align="center">
+**<p align="center">
 HI there I'm Dea Janina<br>
 &nbsp;&nbsp;&nbsp;&nbsp;your student mom 💚🌸
-</p>
+</p>**
 
 ## 💖 About Me
 - 📚 Student mom, balancing life with my **3-year-old playful son, Pierre Sebastian**  
