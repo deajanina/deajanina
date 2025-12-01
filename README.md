@@ -1,8 +1,4 @@
-<p align="center" style="font-weight:bold; line-height:1.2;">
-HI there I'm Dea Janina<br>
-&nbsp;&nbsp;&nbsp;&nbsp;your student mom 💚🌸
-</p>
-
+<h1 align="center">Hi there! I'm Dea Janina, your student mom 💚🌸</h1>
 
 ## 💖 About Me
 - 📚 Student mom, balancing life with my **3-year-old playful son, Pierre Sebastian**  
@@ -14,9 +10,9 @@ HI there I'm Dea Janina<br>
 ---
 
 ## 🌸 Skills & Tech 💚
-![HTML](https://img.shields.io/badge/HTML-7CFC7C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-7CFC7C?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7CFC7C?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-98FB98?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-98FB98?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-98FB98?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
