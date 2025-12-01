@@ -1,4 +1,4 @@
-#  Hi there! I'm Dea Janina your student mom 💚🌸
+<h1 align="center">Hi there! I'm Dea Janina, your student mom 💚🌸</h1>
 
 ## 💖 About Me
 - 📚 Student mom, balancing life with my **3-year-old playful son, Pierre Sebastian**  
@@ -26,7 +26,3 @@
 ## 🤫 Fun Fact
 - I’m quiet but deadly with code 😎  
 - Proud student mom, learning, growing & loving every moment 🌸
-
----
-
-
